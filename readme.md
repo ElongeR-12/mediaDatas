@@ -1,0 +1,1 @@
+![myImage](https://github.com/ElongeR-12/mediaDatas/blob/main/medias/mean%20stack.gif)
